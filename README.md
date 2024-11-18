@@ -30,4 +30,24 @@
 <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" width="400" alt="whiteraven-photo" align="right">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snowden003&show_icons=true&locale=en" alt="snowden003" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowden003&" alt="snowden003" /></p>
+
+## Who i am?
+```php
+<?php
+$name = "Mobin Hassani";
+$profession = "Web Developer and Software Engineer";
+$experience = 4;
+$skills = ["PHP", "Laravel", "MySQL", "JavaScript", "HTML", "CSS"];
+$projects = ["Hospital Database Design", "Online Ethical Hacking Class"];
+echo "<h1>$name</h1>";
+echo "<p>$profession with $experience years of experience.</p>";
+echo "<p>Skills: " . implode(", ", $skills) . "</p>";
+echo "<p>Current Projects:</p><ul>";
+foreach ($projects as $project) {
+    echo "<li>$project</li>";
+}
+echo "</ul>";
+?>
+```
