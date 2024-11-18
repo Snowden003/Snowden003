@@ -1,3 +1,4 @@
+![logo](https://github.com/Snowden003/Snowden003/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mobin</h1>
 <h3 align="center">A passionate Backend developer from afghanistan</h3>
 
